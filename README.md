@@ -9,7 +9,7 @@ A local, RAG-based research assistant that helps you read, summarize, and write 
 
 ---
 
-![Description](exact/path/to/Screenshot 2026-09-12 105729.png)
+
 
 ## 📌 Features
 
